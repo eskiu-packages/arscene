@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/eskiu-packages/arscene/actions/workflows/ci.yml?query=branch%3Adevelop"><img src="https://github.com/eskiu-packages/arscene/actions/workflows/ci.yml/badge.svg?branch=develop" alt="CI"></a>
-  <img src="https://img.shields.io/badge/version-0.1.4-6448d4" alt="Version 0.1.4">
+  <img src="https://img.shields.io/badge/version-0.1.5-6448d4" alt="Version 0.1.5">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
 </p>
 
@@ -55,7 +55,7 @@ use_ar_session(ArOptions{horizontal: true, depth: true, people: true}, void(*ArF
 ## Install
 
 ```bash
-eskiuc add arscene --git https://github.com/eskiu-packages/arscene --rev v0.1.4
+eskiuc add arscene --git https://github.com/eskiu-packages/arscene --rev v0.1.5
 ```
 
 It brings ar and scene.

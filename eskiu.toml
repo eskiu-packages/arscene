@@ -1,9 +1,9 @@
 [package]
 name = "arscene"
-version = "0.1.4"
+version = "0.1.5"
 
 [deps]
-ar = { git = "https://github.com/eskiu-packages/ar", rev = "v0.2.3" }
-scene = { git = "https://github.com/eskiu-packages/scene", rev = "v0.2.3" }
-gpu = { git = "https://github.com/eskiu-packages/gpu", rev = "v0.7.2" }
-ui = { git = "https://github.com/eskiu-packages/ui", rev = "v0.7.0" }
+ar = { git = "https://github.com/eskiu-packages/ar", rev = "v0.2.4" }
+scene = { git = "https://github.com/eskiu-packages/scene", rev = "v0.3.0" }
+gpu = { git = "https://github.com/eskiu-packages/gpu", rev = "v0.8.0" }
+ui = { git = "https://github.com/eskiu-packages/ui", rev = "v0.8.0" }

@@ -4,7 +4,13 @@ All notable changes to this package are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow
 [Semantic Versioning](https://semver.org/).
 
-## [0.1.4] - 2026-11-22
+## [0.1.5] - 2026-11-26
+
+### Changed
+
+- Depends on ui 0.8.0, gpu 0.8.0, scene 0.3.0 and ar 0.2.4.
+
+## [0.1.4]
 
 ### Changed
 
